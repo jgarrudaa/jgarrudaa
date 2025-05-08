@@ -64,7 +64,6 @@ Me chamo João Guilherme, tenho 16 anos e sou natural de São Paulo. Atualmente,
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=jgarrudaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
