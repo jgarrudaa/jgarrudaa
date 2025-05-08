@@ -1,8 +1,8 @@
-# 👨‍💻 João Guilherme Arruda
+# 👨‍💻 João Guilherme Barros Arruda
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo João Guilherme, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o Ensino Médio na escola SESI CE-399. Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI - Luiz Pagliato. Gosto muito de tecnologia e busco sempre estar aprendendo mais sobre a área.
+Olá, meu nome é João Guilherme, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o Ensino Médio na escola SESI CE-399 e, paralelamente, me especializando em Desenvolvimento de Sistemas no SENAI - Luiz Pagliato. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios nessa área.
 
 <p align="left">
     </a> 
