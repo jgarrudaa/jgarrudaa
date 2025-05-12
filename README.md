@@ -1,6 +1,6 @@
 # 👨‍💻 João Guilherme Barros Arruda
 
-**`Estudante de Desenvolvimento de Sistemas`**
+**`Estudante de Desenvolvimento de Sistemas`** **`Aprendendo Python e JavaScript`**
 
 Olá, meu nome é João Guilherme, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o Ensino Médio na escola SESI CE-399 e, paralelamente, me especializando em Desenvolvimento de Sistemas no SENAI - Luiz Pagliato. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios nessa área.
 
